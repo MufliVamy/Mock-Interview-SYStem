@@ -2,7 +2,11 @@ The AI Mock Interview System is a project that aims to help individuals prepare 
 
 <img width="2026" alt="tldraw (1) (1)" src="https://github.com/MufliVamy/Mock-Interview-SYStem/assets/93393847/b00fb1e2-afc6-4b3c-9686-c839a83e08f2">
 
+
+
+
 Project Overview
+
 The system works as follows:
 
 1. Question Generation: The user provides a context or a job description, which is fed into the T5 model. The T5 model generates a list of relevant interview questions based on the given context.
@@ -16,14 +20,24 @@ b.Sentence-level Comparison: To account for semantic similarities beyond individ
 4. Rating: Based on the cosine similarity scores from both the word-level and sentence-level comparisons, the user's response is rated, providing feedback on their performance.
 
 
+
+
+
 Installation 
 
 Clone the repository: git clone https://github.com/MufliVamy/Mock-Interview-SYStem.git
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python main.py
 
+
+
+
 License
+
 This project is licensed under the Apache-2.0 License.
+
+
+
 
 Acknowledgments
 
