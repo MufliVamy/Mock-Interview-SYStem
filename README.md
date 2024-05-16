@@ -23,7 +23,10 @@ b.Sentence-level Comparison: To account for semantic similarities beyond individ
 
 
 
-**Installation **
+
+
+
+**Installation**
 
 Clone the repository: git clone https://github.com/MufliVamy/Mock-Interview-SYStem.git
 Install the required dependencies: pip install -r requirements.txt
@@ -32,9 +35,16 @@ Run the application: python main.py
 
 
 
+
+
+
+
 **License**
 
 This project is licensed under the Apache-2.0 License.
+
+
+
 
 
 
